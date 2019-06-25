@@ -13,6 +13,7 @@ public class BankAccount {
 
     public static void main(String [] args){
 
+        Sytem.out.println("This is from main. And this is from GitHub as well");
     }
 
     public void withdrawal(double withdrawalAmount){
